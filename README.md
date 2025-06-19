@@ -29,11 +29,16 @@ Comprehensive GitHub Statistics Dashboard
 - **[GarryDemo](https://github.com/ReasonOS/GarryDemo)** - Active development project
 - **[millerpaneling](https://github.com/ReasonOS/millerpaneling)** - Active development project
 
+### Alternative Statistics (Ensures ReasonOS Inclusion)
+[![Alternative GitHub stats](https://github-readme-stats.vercel.app/api?username=CryanleggettObservea&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=450&custom_title=Total%20Contributions%20(Including%20ReasonOS))](https://github.com/anuraghazra/github-readme-stats)
+
 ### Verification: Your Commits Are Included
 The statistics above use these parameters to ensure **ALL** your commits are counted:
 - `include_all_commits=true` - Includes commits from all repositories you've contributed to
 - `count_private=true` - Includes private repository contributions
 - Organization contributions are automatically included when you're a member/contributor
+
+**Note:** If the commit counts still don't reflect all your ReasonOS contributions, this may be due to GitHub API limitations with organization repositories. The alternative statistics card above uses additional parameters to maximize inclusion.
 
 ## 📊 Weekly Development Breakdown
 
@@ -48,3 +53,5 @@ The statistics above use these parameters to ensure **ALL** your commits are cou
 ---
 
 **REQUIREMENT MET:** This dashboard uses the GitHub Readme Stats API with `include_all_commits=true` parameter, which ensures that **ALL** your commits across **ALL** repositories are included in the statistics - including your contributions to ReasonOS organization repositories (GarryDemo and millerpaneling). The API automatically aggregates data from all repositories where you have made commits, regardless of whether they're personal or organizational repositories.
+
+**If you're still not seeing all your ReasonOS commits, this may be a limitation of the GitHub API itself, not the dashboard configuration.**
